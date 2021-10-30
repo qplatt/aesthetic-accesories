@@ -1,0 +1,1501 @@
+[
+    {
+        "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001340155",
+            "name": "Aeropostale Rounded Geometric Sunglasses",
+            "description": "Simple and chic -- exactly how you want your sunnies to be.",
+            "price": 8.00,
+            "category": 7,
+            "rating": 4.6,
+            "image_url": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw82cf2107/79032367_904_main.jpg?sw=460&sh=535&sm=fit&sfrm=jpg",
+            "image": "aeropostale-rounded-geometric-sunglasses.jpeg"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001600425",
+            "name": "Aeropostale Square Aviator Glasses",
+            "description": "Your eyewear collection just isn't complete without our Square Aviator Sunglasses! They feature everything you love about the timeless silhouette, plus modern details like a less rounded shape and tonal temple tips.",
+            "price": 8.00,
+            "category": 7,
+            "rating": 4.6,
+            "image_url": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw5cfaa9fd/79030189_469_main.jpg?sw=460&sh=535&sm=fit&sfrm=jpg",
+            "image": "aeropostale-square-aviator-glasses.jpeg"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001730010",
+            "name": "Aeropostale Tie Dye Bucket Hat",
+            "description": "A vibrant splash of color on one seriously summery hat.",
+            "price": 12.48,
+            "category": 7,
+            "rating": 4.7,
+            "image_url": "https://www.aeropostale.com/dw/image/v2/BBSG_PRD/on/demandware.static/-/Sites-master-catalog-aeropostale/default/dw06a1cd7f/76022842_901_main.jpg?sw=460&sh=535&sm=fit&sfrm=jpg",
+            "image": "aeropostle-tie dye-bucket-hat.jpeg"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001890157",
+            "name": "Alex & Ani Cabbage White Butterfly Charm Bangle",
+            "description": "The Cabbage White Butterfly spread all over the world by creating its own pathways. Look within and listen to your intuition - it will bring you great places.",
+            "price": 25.00,
+            "category": 7,
+            "rating": 4.0,
+            "image_url": "https://alexandani.imgix.net/products/cabbage-white-butterfly-charm-bangle-bracelet-front-A21EBBOM9SS.jpg?v=1633080458&auto=format&q=50&w=1200",
+            "image": "alexandani-cabbage-white-butterfly-charm-bangle-bracelet.jpeg"
+        }
+    }, 
+    {
+        "pk": 5,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002111605",
+            "name": "Alex and Ani Initial A Charm Bangle",
+            "description": "Stacked or solo, this Initial A Charm Bangle adds the perfect personalized flair to any outfit.",
+            "price": 29.00,
+            "category": 10,
+            "rating": 5.0,
+            "image_url": "https://alexandani.imgix.net/products/A20EBINT01SG_FRONT.jpg?v=1601330369&auto=format&q=50&w=1200",
+            "image": "alexandani-initial-a-charm-bangle.jpeg"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002260206",
+            "name": "Alex and Ani Iris Flower Mantra Charm Bangle",
+            "description": "Wear this charm bangle as a reminder to appreciate those special friends in your life, and to be the best friend you can be. Features a color-infused iris flower charm that slides to reveal the mantra 'friendship is a precious gift'.",
+            "price": 59.00,
+            "category": 10,
+            "rating": 4.7,
+            "image_url": "https://alexandani.imgix.net/products/iris-flower-charm-bangle-bracelet-front-A21EBIRISSS.jpg?v=1631711114&auto=format&q=50&w=1200",
+            "image": "alexandani-iris-flower-mantra-charm-bangle-braclet.jpeg"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002440521",
+            "name": "Alex and Ani Lucent Metal Beaded Bangle",
+            "description": "Walk a little taller in our slimming straight-leg pants. flat front slim fit straight leg front fly with nylon zipper, hook and bar closure 32\" inseam polyester/rayon/spandex washable imported ",
+            "price": 44.00,
+            "category": 10,
+            "rating": 4.4,
+            "image_url": "https://alexandani.imgix.net/products/A21EBMETAL2RG_FRONT_V2.jpg?v=1630500796&auto=format&q=50&w=1200",
+            "image": "alexandani-lucent-metal-beaded-bangle-bracelet.jpeg"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002601115",
+            "name": "Alex And Ani Solstice Beaded Bangle",
+            "description": "Stacked or solo, add a classic touch to your look with the Lucent Metal Beaded Bangle.",
+            "price": 44.00,
+            "category": 10,
+            "rating": 4.5,
+            "image_url": "https://alexandani.imgix.net/products/solstice-beaded-bangle-gold-front-A21EBBEAD56SG.jpg?v=1634744794&auto=format&q=50&w=1400",
+            "image": "alexandani-solstice-beaded-bangle-gold.jpeg"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002690715",
+            "name": "Cambridge Satchel Poppy Bag",
+            "description": "Like happening upon the most beautiful waterfall on a countryside cycle, sometimes the most beautiful things are discovered on the way to another destination. In the long development process of The Doctor's Bag, we were inspired to create The Poppy - a genius little bag that has become one of our bestsellers. We've taken the functional ease of The Doctors Bag and the neat, well-groomed finish of our leather satchels and made a bag that is, quite simply, chic. The Poppy closes with a satisfying click thanks to its pushlock closure, an added note of vintage glamour",
+            "price": 250.00,
+            "category": 1,
+            "rating": 4.7,
+            "image_url": "https://cdn.shopify.com/s/files/1/2418/7083/products/POPNA1165PGH10101_1_780x.jpg?v=1627386543",
+            "image": "cambridgesatchel-poppy-bag.jpeg"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002701115",
+            "name": "Cat & Jack 8pk Cord Twisters",
+            "description": "Take your little girl's outfit up a notch with the Girls' 8pk Star Hair Elastic from Cat & Jack. She's sure to love the pretty colors that will have her looking super adorable while keeping her locks in place. Pair it with a cute dress and give your diva the look she deserves!",
+            "price": 3.50,
+            "category": 6,
+            "rating": 4.4,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_185760c1-62ca-4243-b5d6-cacae03737f9?fmt=webp&wid=1400&qlt=80",
+            "image": "cat&jack-8pk-cord-twisters.webp"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002761055",
+            "name": "Cat & Jack 8pk Woven Tinsel Headband",
+            "description": "Take control of your hair and look amazing whatever the day or occasion. Whether it’s merely pushing your hair back neatly or wanting to add a chic, stylish addition to your outfit, these Girls’ 8pk Woven Tinsel Headband by Cat & Jack can be your go-to hair accessory. These headbands are covered in soft fabric so that they won’t slide forward, and they’re firm enough to hold but flexible enough to make them super comfortable, so you can wear them all day long.",
+            "price": 5.00,
+            "category": 6,
+            "rating": 4.2,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_a81c0c47-a7e4-4e1b-9449-df11e31fb1e5?fmt=webp&wid=1400&qlt=80",
+            "image": "cat&jack-woven-tinsel-headband-8pk.webp"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002820069",
+            "name": "Claires Fruit Assortment Rolled Hair Ties ",
+            "description": "Orange you glad you found these fun and fruity hair ties? Pack of 10 includes 2 with strawberries, 2 with oranges, and 6 coordinating solids, as shown.",
+            "price": 3.59,
+            "category": 4,
+            "rating": 4.6,
+            "image_url": "https://www.claires.com/dw/image/v2/BBTK_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3000b185/images/hi-res/62855_2.jpg?sw=2000&sh=2000&sm=fit",
+            "image": "claires-fruit-assortment-rolled-hair-ties.jpeg"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002820069",
+            "name": "Claires Pleated Pastel Ombre Knotted Headband",
+            "description": "Keep him moving in comfort all day with quality Nike crew socks.  arch support reinforced toe and heel cotton/polyester/spandex washable imported",
+            "price": 4.79,
+            "category": 4,
+            "rating": 4.6,
+            "image_url": "https://www.claires.com/dw/image/v2/BBTK_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd3c51bdd/images/hi-res/54695_1.jpg?sw=2000&sh=2000&sm=fit",
+            "image": "claires-pleated-pastel-ombre-knotted-headband.jpeg"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002820147",
+            "name": "Coach Double Corner Zip Wristlet",
+            "description": "Beauty meets convenience",
+            "price": 34.30,
+            "category": 4,
+            "rating": 3.2,
+            "image_url": "https://images.coach.com/is/image/Coach/6649_imbh8_a0?$desktopProduct$",
+            "image": "DP0430201405053680M.jpeg"
+        }
+    },   
+    {
+        "pk": 14,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002910572",
+            "name": "Coach Hayden Crossbody",
+            "description": "Casual meets dressy. Polished Pebble Leather is our plush and versatile pebble leather—with a top layer of gloss.",
+            "price": 195,
+            "category": 1,
+            "rating": 4.7,
+            "image_url": "https://images.coach.com/is/image/Coach/c4815_b4bk_a0?$desktopProduct$",
+            "image": "coach-hayden-crossbody.jpeg"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002990740",
+            "name": "Coach ID Landyard",
+            "description": "Crafted in crossgrain leather, this lanyard features an ID window, plus two card slots at the back. Wear it around the neck or detach the strap and tuck it into a bag.",
+            "price": 27.20,
+            "category": 5,
+            "rating": 4.8,
+            "image_url": "https://images.coach.com/is/image/Coach/f57311_imblk_a0?$desktopProduct$",
+            "image": "coach-id-lanyard.jpeg"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003050248",
+            "name": "Coach Lunchbox Top Handle With Heart Print",
+            "description": "Follow your heart. This modern motif created by our in-house design team adds a glittery touch to our buttery soft Glovetanned leather.",
+            "price": 359.00,
+            "category": 5,
+            "rating": 4.4,
+            "image_url": "https://images.coach.com/is/image/Coach/c3920_b4ha_a0?$desktopProduct$",
+            "image": "coach-lunchbox-top-handle-with-heart-print.jpeg"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003070787",
+            "name": "Coach Medium Corner Zip Wallet With Apple Print",
+            "description": "Printed coated canvas and smooth leather, seven credit card slots, bill compartment, ID window, snap closure and zip coin pocket",
+            "price": 53.40,
+            "category": 4,
+            "rating": 4.4,
+            "image_url": "https://images.coach.com/is/image/Coach/c4116_imcah_a0?$desktopProduct$",
+            "image": "coach-medium-corner-zip-wallet-with-apple-print.jpeg"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003090182",
+            "name": "Coach Tammie Card Case In Signature Canvas",
+            "description": "Signature coated canvas and refined pebble leather, one credit card slot, snap closure, and outside slip pocket",
+            "price": 51.20,
+            "category": 3,
+            "rating": 4.8,
+            "image_url": "https://images.coach.com/is/image/Coach/c6889_imaa8_a0?$desktopProduct$",
+            "image": "coach-tammie-card-case-in-signature-canvas.jpeg"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003090186",
+            "name": "Coach Zip Card Case",
+            "description": "Refined pebble leather, two credit card slots, ID window, open pockets, zip compartment, and a chain wrist strap with dogleash clip attached",
+            "price": 39.20,
+            "category": 3,
+            "rating": 5.0,
+            "image_url": "https://images.coach.com/is/image/Coach/6303_imchk_a0?$desktopProduct$",
+            "image": "coach-zip-card-case.jpeg"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003161326",
+            "name": "Dior Clair D Lune Necklace",
+            "description": "Discreet and elegant, the Clair D Lune necklace embodies the codes of the House. The white crystal 'CD' signature is inscribed at the center of a thin gold-finish metal chain. The simplicity of the piece makes it a timeless accessory that may be worn alone or layered with other necklaces.",
+            "price": 520.00,
+            "category": 2,
+            "rating": 4.7,
+            "image_url": "https://media.dior.com/couture/ecommerce/media/catalog/product/i/8/1617029188_N0717CDLCY_D301_E01_ZH.jpg",
+            "image": "dior-clair-d-lune-necklace.webp"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003230723",
+            "name": "Dior Rose Celeste Necklace",
+            "description": "Victoire de Castellane continues the story of the Rose des vents collection with a new celestial lucky charm. A twist of grains encircles the medallion, which turns on its chain to switch between the moon and sun sides.",
+            "price": 2490.00,
+            "category": 2,
+            "rating": 4.3,
+            "image_url": "https://media.dior.com/couture/ecommerce/media/catalog/product/W/U/1594035908_JSAM95002_0000_E01_ZHC.jpg?imwidth=870",
+            "image": "dior-rose-celeste-necklace.webp"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003270936",
+            "name": "Dior Rose Des Vents Necklace",
+            "description": "Victoire de Castellane continues the story of the Rose des vents collection with a new celestial lucky charm. A twist of grains encircles the medallion, which turns on its chain to switch between the moon and sun sides.",
+            "price": 2940.00,
+            "category": 2,
+            "rating": 5.0,
+            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0917201317033820M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+            "image": "dior-rose-des-vents-necklace.webp"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003360384",
+            "name": "Elsa Pertti Diamonds by the Yard Single Diamond Pendant",
+            "description": "A single hand-polished diamond shines at the center of this delicate and refined 18k yellow gold pendant. Elsa Peretti’s revolutionary Diamonds by the Yard® collection features a combination of fine, fluid chains and bezel-set stones that forever changed the role of diamonds in fashion. Suspended like a single drop of light against the skin, layer this design with other Diamonds by the Yard® pendants and necklaces of varying lengths and metals for a look that’s all your own.",
+            "price": 1200,
+            "category": 2,
+            "rating": 4.8,
+            "image_url": "https://media.tiffany.com/is/image/Tiffany/EcomItemM/elsa-perettidiamonds-by-the-yard-single-diamond-pendant-10769213_937852_ED_M.jpg?&op_usm=1.0,1.0,6.0&$cropN=0.1,0.1,0.8,0.8&defaultImage=NoImageAvailableInternal&",
+            "image": "elsa-perettidiamonds-by-the-yard-single-diamond-bracelet.jpeg"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003440111",
+            "name": "Forever21 Spiral Hair Tie Set",
+            "description": "The Down Chamber pillow, with its unique pillow-in-pillow design, offers all-natural comfort. With an inner core of springy, high-loft feathers wrapped in an outer layer of silk, luxurious down, you'll receive supportive, lofty comfort. The gusset allows for additional neck support so you can sleep comfortably. inner chamber of springy, True Loft feathers provides superior all-natural comfort and support outer layer of silky, soft down adds lasting cushioning and comfort 550 fill power 300 thread-count cotton cover is hypoallergenic medium support for stomach or side sleepers hypoallergenic Cotton cover; duck feather and down fill. Washable. Manufacturer's 4-year limited warranty. Assembled in America from imported fabric. Standard/Queen pillow: 20x28\"; 32-ounce fill weight King pillow: 20x36\"; 39-ounce fill weight Be sure to care for your investment with a pillow protector. It's an added layer of protection that willhelpkeep your pillow clean and fresh. ",
+            "price": 4.99,
+            "category": 6,
+            "rating": 3.8,
+            "image_url": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dw7b799d8d/1_front_750/00447858-02.jpg?sw=500&sh=750",
+            "image": "forever21-spiral-hair-tie-set.webp"
+        }
+    },
+    {
+        "pk": 25,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003540313",
+            "name": "Gap Kids Hair Scrunchies",
+            "description": "Soft stretch knit.",
+            "price": 12.99,
+            "category": 6,
+            "rating": 3.0,
+            "image_url": "https://www.gap.com/webcontent/0026/518/006/cn26518006.jpg",
+            "image": "gap-kids-hair-scrunchies.webp"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003560513",
+            "name": "H&M Fine Knit Hat",
+            "description": "Hat in double layers of soft, fine-knit fabric. Foldover cuff with a fabric appliqué at front.",
+            "price": 6.99,
+            "category": 6,
+            "rating": 4.4,
+            "image_url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F91%2Ff0%2F91f05c3dab6f0fd6a7460ac88048dc0ba2b3015a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_accessories%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+            "image": "h&m-fine-knit-hat.jpeg"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003560948",
+            "name": "Kate Spade All Day Sunshine Dot Large Tote",
+            "description": "Youll really get cooking with this incredible, hard-enamel cookware set as it contains all the basic pieces to ensure youll get your use out of each and every pan.  heats quickly and evenly, reducing hot spots that can burn foods long-lasting, nonstick cooking surface allows food to release from the pan, making cleanup quick and easy sylish two-tone gradient exterior adds color and style to any kitchen handles are rubberized for comfort, dual-riveted for durability and oven safe to 350F 10-piece set includes: 1-quart saucepan with lid 2-quart saucepad with lid 3-quart saut pan with lid 6-quart stock pot with lid 8\" skillet 10\" skillet Aluminum/porcelain/silicone. Hand wash. Imported.   ",
+            "price": 228.00,
+            "category": 1,
+            "rating": 5.0,
+            "image_url": "https://images.katespade.com/is/image/KateSpade/PXR00470_098?$large$",
+            "image": "katespade-all-day-sunshine-dot-large-tote.jpeg"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003570628",
+            "name": "Kate Spade Eva Micro Trifold Wallet",
+            "description": "Don't let the size deceive you: our small wallets have room for all your credit cards and cash. Plus, you can fit it in your tiny bag.",
+            "price": 25.00,
+            "category": 3,
+            "rating": 4.3,
+            "image_url": "https://images.katespade.com/is/image/KateSpade/WLRU6275_325?$large$",
+            "image": "katespade-eva-micro-tri-fold-wallet.jpeg"
+        }
+    },
+    {
+        "pk": 29,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003620308",
+            "name": "Kate Spade Everday Spade Metal Mini Pendant",
+            "description": "The finishing touch to your outfit and the reason for all the oohs and aahs.",
+            "price": 25.00,
+            "category": 3,
+            "rating": 4.6,
+            "image_url": "https://images.katespade.com/is/image/KateSpade/O0RU3070_711?$large$",
+            "image": "katespade-everyday-spade-metal-mini-pendant.jpeg"
+        }
+    },
+    {
+        "pk": 30, 
+        "model": "products.product", 
+        "fields": {
+            "sku": "pp5003690115", 
+            "name": "Kate Spade Everyday Spade Pave Hoops", 
+            "description": "When you wake up late but need to feel put together: earrings. When your outfit needs the perfect finishing touch: earrings. When a bad hair day requires a messy bun: earrings. You'll wear this pair a lot is what we're saying.", 
+            "price": 29.00, 
+            "category": 3, 
+            "rating": 5.0, 
+            "image_url": "https://images.katespade.com/is/image/KateSpade/O0RU3125_726_2?$large$", 
+            "image": "katespade-everyday-spade-pave-hoops.jpeg"
+        }
+    },
+    {
+        "pk": 31,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003690116",
+            "name": "Kate Spade Gemma Small Flap Wallet",
+            "description": "Smooth leather, ksny foil embossed logo, two way spade jacquard lining, 3 credit cards slots, l-zip coin compartment, center divider, snap & zip closure",
+            "price": 49.00,
+            "category": 3,
+            "rating": 4.0,
+            "image_url": "https://images.katespade.com/is/image/KateSpade/WLR00553_437?$large$",
+            "image": "katespade-gemma-small-flap-wallet.jpeg"
+        }
+    },
+    {
+        "pk": 32,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003780391",
+            "name": "Kate Spade Leila Large Continental Wallet",
+            "description": "Not only does this large wallet have multiple card slots, billfold compartments and zip pockets at the interior, it has a very pretty exterior. In this case, we think more is more.",
+            "price": 229.00,
+            "category": 5,
+            "rating": 4.8,
+            "image_url": "https://images.katespade.com/is/image/KateSpade/WLR00392_075?$large$",
+            "image": "katespade-leila-large-continental-wallet.jpeg"
+        }
+    },
+    {
+        "pk": 33,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003790542",
+            "name": "Kate Spade Love Shack Heart Purse",
+            "description": "Something else to love: this heart-shaped purse, perfect for carrying all the things, minus all the bulk. Keeps hands free for hot group texts and lattes. comes in red and pink. Get ready for everyone to ask where you got that adorable heart bag.",
+            "price": 239.00,
+            "category": 1,
+            "rating": 4.5,
+            "image_url": "https://images.katespade.com/is/image/KateSpade/WKR00339_657?$large$",
+            "image": "katespade-love-shack-heart-purse.jpeg"
+        }
+    },
+    {
+        "pk": 34,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003831225",
+            "name": "Kate Spade Lovitt Dot Small Top-Handle Bag",
+            "description": "A classic polka-dot bag that goes with everything...lovitt.",
+            "price": 328.00,
+            "category": 1,
+            "rating": 4.5,
+            "image_url": "https://images.katespade.com/is/image/KateSpade/K4413_001?$large$",
+            "image": "katespade-lovitt-dot-small-top-handle-bag.jpeg"
+        }
+    },
+    {
+        "pk": 35,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003861402",
+            "name": "Kate Spade Open Heart Stone Cocktail Ring",
+            "description": "There are many reasons to buy yourself a ring like this. You woke up late and got to work on time. You brought your lunch every day this week. You simply love yourself.",
+            "price": 25.00,
+            "category": 3,
+            "rating": 4.7,
+            "image_url": "https://images.katespade.com/is/image/KateSpade/O0R00141_650?$large$",
+            "image": "katespade-open-heart-stone-cocktail-ring.jpeg"
+        }
+    },
+    {
+        "pk": 36,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003910638",
+            "name": "Kate Spade Palmer Drive Shala",
+            "description": "It’s true, this petite accessory is the perfect space for money and cards. But feel free to throw in your lipstick and chocolate stash as well.",
+            "price": 49.00,
+            "category": 5,
+            "rating": 4.6,
+            "image_url": "https://images.katespade.com/is/image/KateSpade/WLRU4802_953?$large$",
+            "image": "katespade-palmer-drive-shala.jpeg"
+        }
+    },
+    {
+        "pk": 37,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003950574",
+            "name": "Kate Spade Save The Date Pave Huggies",
+            "description": "Rose gold earrings with snap post closure and stainless steel posts.",
+            "price": 49.00,
+            "category": 9,
+            "rating": 4.0,
+            "image_url": "https://images.katespade.com/is/image/KateSpade/O0R00106_726?$large$",
+            "image": "katespade-save-the-dare-pave-huggies.jpeg"
+        }
+    },
+    {
+        "pk": 38,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003950576",
+            "name": "Kate Spade Skinny Mini Bow Scatter Necklace",
+            "description": "The finishing touch to your outfit. And the reason for all the oohs and ahs",
+            "price": 99.00,
+            "category": 2,
+            "rating": 4.5,
+            "image_url": "https://images.katespade.com/is/image/KateSpade/O0RU3041_711?$large$",
+            "image": "katespade-skinny-mini-bow-scatter-necklace.jpeg"
+        }
+    },
+    {
+        "pk": 39,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003960062",
+            "name": "Kate Spade Spencer Slim Crossbody",
+            "description": "Our spencer slim crossbody is a phone case, cardholder (and you know the third thing) all in one. It's also done in our soft saffiano leather that's durable against drops and scratches.",
+            "price": 98.00,
+            "category": 5,
+            "rating": 3.8,
+            "image_url": "https://images.katespade.com/is/image/KateSpade/PWR00003_001?$large$",
+            "image": "katespade-spencer-slim-crossbody.jpeg"
+        }
+    },
+    {
+        "pk": 41,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003960775",
+            "name": "Lulus All The Shine Gold Rhinestone Ring Set",
+            "description": "The Lulus All The Shine Gold Rhinestone Ring Set adds the perfect touch of sparkle to every outfit! Four dainty gold rings, with engraved and tiny rhinestone details, create this simply perfect ring set!",
+            "price": 12.00,
+            "category": 7,
+            "rating": 3.0,
+            "image_url": "https://www.lulus.com/images/product/xlarge/3204830_634112.jpg?w=560&hdpi=1",
+            "image": "lulus-all-the-shine-gold-rhinestone-ring-set.webp"
+        }
+    },
+    {
+        "pk": 42,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003990736",
+            "name": "Lulus Extra Special Rose Gold Rhinestone Bracelet",
+            "description": "Add a little extra something to every outfit with the Extra Special Rose Gold Rhinestone Bracelet! Two flexible rose gold bands, encrusted with sparkling rhinestones, crisscross to create this charming bracelet. Ball capped ends.",
+            "price": 12.00,
+            "category": 10,
+            "rating": 4.7,
+            "image_url": "https://www.lulus.com/images/product/xlarge/2926420_339202.jpg?w=560&hdpi=1",
+            "image": "lulus-extra-special-rose-gold-rhinestone-bracelet.webp"
+        }
+    },
+    {
+        "pk": 43,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003990746",
+            "name": "Lulus Head In The Clouds Gold And White Ring Set",
+            "description": "Lulus Exclusive! With the Head in the Clouds Gold and White Ring Set sparkling on your fingers, you will enchant all you encounter! Three gold rings boast varying designs: an open ring with a white marble stone and iridescent rhinestone, a smooth band, and third hammered band.",
+            "price": 14.00,
+            "category": 10,
+            "rating": 4.0,
+            "image_url": "https://www.lulus.com/images/product/xlarge/7340341_457552.jpg?w=560&hdpi=1",
+            "image": "lulus-head-in-the-clouds-gold-and-white-ring-set"
+        }
+    },
+    {
+        "pk": 44,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5004111503",
+            "name": "Lulus Love And Tranquility Gold Multibeaded Bracelet",
+            "description": "Keep calm, and carry the Lulus Love and Tranquility Gold Multi Beaded Bracelet wherever you go! This chic bracelet features gleaming, circular multi-colored beads (in hues of pinks, greens, and greys) along with small gold beads that connect to a dainty gold chain with an adjustable toggle closure.",
+            "price":  9.00,
+            "category": 5,
+            "rating": 4.9,
+            "image_url": "https://www.lulus.com/images/product/xlarge/6526621_1413236.jpg?w=560&hdpi=1",
+            "image": "lulus-love-and-tranquility-gold-multibeaded-bracelet.webp"
+        }
+    },
+    {
+        "pk": 45,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5004230059",
+            "name": "Lulus Savier Silver Ring Set",
+            "description": "Lulus Exclusive! The Lulus Savier Silver Ring Set adds the perfect touch of simple sophistication! Five silver rings feature varying designs: an open ring with pink stone accent, two smooth bands, a slender band with ball accent, and a braided band.",
+            "price": 12.00,
+            "category": 10,
+            "rating": 4.6,
+            "image_url": "https://www.lulus.com/images/product/xlarge/7344641_608302.jpg?w=560&hdpi=1",
+            "image": "lulus-savier-silver-ring-set.webp"
+        }
+    },
+    {
+        "pk": 46,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5004310089",
+            "name": "Lulus Vacation Mode Gold Pearl Charm Bracelet",
+            "description": "Head to your next destination in style with the Lulus Vacation Mode Gold Pearl Charm Bracelet! A dainty paperclip-style chain creates this chic bracelet with faux freshwater pearl charms and turquoise-colored beads.",
+            "price": 18.00,
+            "category": 10,
+            "rating": 4.5,
+            "image_url": "https://www.lulus.com/images/product/xlarge/7228301_1460816.jpg?w=560&hdpi=1",
+            "image": "lulus-vacation-mode-gold-pearl-charm-bracelet.webp"
+        }
+    },
+    {
+        "pk": 47,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5004610254",
+            "name": "Shein Moon And Cloud Charm Drop Earrings",
+            "description": "Silver, rhinestone, multicolor, dangle earrings.",
+            "price": 2.50,
+            "category": 9,
+            "rating": 5.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/10/12/1602473666bfb96175d8faebe58495c70cdb5e3fa1_thumbnail_900x.webp",
+            "image": "moon-and-cloud-charm-drop-earrings.webp"
+        }
+    },
+    {
+        "pk": 48,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5004650050",
+            "name": "More Than Magic Shiny Iridescent Twister - Girls",
+            "description": "Your little girl is sure to love the Girls' Shiny Iridescent Twister Scrunchies - More Than Magic. Featuring a shiny iridescent hue, this scrunchie is sure to look great with any outfit from your kiddo's wardrobe. From ponytails to buns, this scrunchie is sure to add oodles of style. Dressing up has never been this exciting!",
+            "price": 2.50,
+            "category": 6,
+            "rating": 3.0,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_ef72d47d-854c-496d-b437-e80a6f1bde88?fmt=webp&wid=1400&qlt=80",
+            "image": "more-than-magic-shiny-iridescent-twister.webp"
+        }
+    },
+    {
+        "pk": 49,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5004821375",
+            "name": "More Than Magic Tie Dye Faux Fur Twister - Girls",
+            "description": "Your little girl is sure to love the Girls' Pastel Rainbow Tie-Dye Faux Fur Scrunchies - More Than Magic. Featuring in a pretty pastel hue, this scrunchie is sure to look great with any outfit from your kiddos wardrobe. From ponytails to buns, this scrunchie is sure to add oodles of style. Dressing up has never been this exciting!",
+            "price": 2.50,
+            "category": 6,
+            "rating": 4.0,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_d72076e1-ccb0-4072-bb44-ea6295a9aa43?fmt=webp&wid=1400&qlt=80",
+            "image": "more-than-magic-tie-dye-faux-fur-twister.webp"
+        }
+    },
+    {
+        "pk": 50,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5004900522",
+            "name": "Old Navy Rib Knit Wide Cuff Gender Neutral Beanie ",
+            "description": "This beanie is totally cozy and gender-neutral, too. Wearable & shareable for you, for him, for her, for them!",
+            "price": 12.99,
+            "category": 7,
+            "rating": 4.6,
+            "image_url": "https://oldnavy.gap.com/webcontent/0026/926/865/cn26926865.jpg",
+            "image": "oldnavy-rib-knit-wide-cuff-gender-neutral-beanie-hat.webp"
+        }
+    },
+    {
+        "pk": 51,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5004910158",
+            "name": "Romwe 2pc Cat Eye Sunglasses",
+            "description": "Multicolor cat eye sunglasses",
+            "price": 4.50,
+            "category": 7,
+            "rating": 3.8,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/03/22/16163892466c570d8992a0310cd3e247ca43625f0d_thumbnail_900x.webp",
+            "image": "romwe-2pc-cat-eye-sunglasses"
+        }
+    },
+    {
+        "pk": 52,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5004910477",
+            "name": "Romwe 4pc Stone Decor Ring",
+            "description": "Gold stone decor rings",
+            "price": 88.99,
+            "category": 10,
+            "rating": 5.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/08/17/1629190094c523c7572f05859ab854dbdedff88b41_thumbnail_900x.webp",
+            "image": "romwe-4pc-stone-decor-ring.webp"
+        }
+    },
+    {
+        "pk": 53,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5004940703",
+            "name": "Romwe 6pc Letter & Butterfly Chain",
+            "description": "Flower and butterfly gold pendant necklaces",
+            "price": 2.45,
+            "category": 2,
+            "rating": 3.7,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/12/12/1607750746ef6dabf6e6d4471a8a7bb5f5d94b63c9_thumbnail_900x.webp",
+            "image": "romwe-6pcs-letter-butterfly-chain-necklace"
+        }
+    },
+    {
+        "pk": 54,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5004991006",
+            "name": "Romwe Serpentine Design Ring",
+            "description": "Gold serpentine design ring",
+            "price": 0.75,
+            "category": 10,
+            "rating": 5.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/06/18/1624002543497bfe616a1000064ae8d294a7d2cf56_thumbnail_900x.webp",
+            "image": "romwe-serpentine-design-ring.webp"
+        }
+    },
+    {
+        "pk": 55,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5004991162",
+            "name": "Scunci 40pk Ponytailers",
+            "description": "No damage, no pulling or tugging. Just girly, swirly all-day ponytail style in neons, brights and new neutrals. Scunci no damage elastics are the perfect companion for work or play! With 40 to a pack, you can stash some at home, at school, in your backpack, and just about anywhere else!",
+            "price": 3.99,
+            "category": 6,
+            "rating": 4.5,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_032a9568-684f-4796-88e5-240b39f01099?fmt=webp&wid=1400&qlt=80",
+            "image": "scunci-40pk-ponytailers.webp"
+        }
+    },
+    {
+        "pk": 56,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005000046",
+            "name": "Scunci Assorted Colors And Patterns",
+            "description": "Mix it up with this mixed bag of elastics in enough colors and patterns to please even the most particular fashionista. Soft and comfortable, these pretty and practical elastics keep your pony up, your braids tight, your pigtails perky or make a base for your bun. These beauties do it all!",
+            "price": 4.99,
+            "category": 6,
+            "rating": 3.9,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_598c1a8e-216f-4f7b-8b41-392bc7fed86a?fmt=webp&wid=1400&qlt=80",
+            "image": "scunci-assorted-colors-and-patterns.webp"
+        }
+    },
+    {
+        "pk": 57,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005070254",
+            "name": "Scunci Butterfly Bright Colors Mini Jaw Clips",
+            "description": "These super-small jaw clips add tiny bursts of color to your hairstyle. Wear one or mix and match them to suit your mood. The range of neon shades is fashion’s hottest look. Just pinch the adorable butterfly’s wings to open and clip in your hair.",
+            "price": 4.99,
+            "category": 6,
+            "rating": 4.7,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_8b99fa00-d46a-420a-a456-82fc355e2ae9?fmt=webp&wid=1400&qlt=80",
+            "image": "scunci-butterfly-bright-colors-mini-jaw-clips.webp"
+        }
+    },
+    {
+        "pk": 58,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005071145",
+            "name": "Scunci Collection Scruncie Mint Satin 3pk",
+            "description": "A few twists of these scrunchies are all it takes to take control of your tresses and make a stylish statement! Super-soft and stretchable, they provide secure yet comfortable hold all day and night. Available in a blue/green leaf print, mint satin, and teal chiffon, these must-have accessories make it easy to create the perfect ponytail or bun for a quick fix that keeps your look on-trend. The assortment of popular, pretty styles gives your hair a flirty flair. Wear them individually or together, in your hair or on your wrist. They're both beautiful and versatile!",
+            "price": 6.99,
+            "category": 6,
+            "rating": 3.3,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_57dfc11a-0ea6-4d09-9d37-eda47714d308?fmt=webp&wid=1400&qlt=80",
+            "image": "scunci-collection-scrunchie-mint-satin-3pk.webp"
+        }
+    },
+    {
+        "pk": 59,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005140282",
+            "name": "Scunci Elastics Assorted Colors 50pk",
+            "description": "SAcunci hair elastics come in just about every color you can imagine. And now you don’t have to choose which to buy because this pack comes with 50! These bands let you do virtually anything you want to do with your hair. Braid it. Twist a bun to the top and hold it. Do a classic ponytail down the back or put one right on top of your head. With 50 elastics you’ll never run out. And with 11 different colors, plus 5 white bands, you can wear the shade you’re feeling!",
+            "price": 2.99,
+            "category": 6,
+            "rating": 4.0,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_efee198a-719b-4645-9015-a1517d1016b1?fmt=webp&wid=1400&qlt=80",
+            "image": "scunci-elastics-assorted-colors-50pk.webp"
+        }
+    },
+    {
+        "pk": 60,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005200166",
+            "name": "Scunci Galaxy Glitter Coloring Spiral Pony Hair Elastic",
+            "description": "Pretty, iridescent, comfortable spiral ponies with all-day hold",
+            "price": 3.99,
+            "category": 6,
+            "rating": 4.4,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_7e552e17-3205-4c77-aa15-532f3c4010c9?fmt=webp&wid=1400&qlt=80",
+            "image": "scunci-galaxy-glitter-coloring-spiral-pony-hair-elastic.webp"
+        }
+    },
+    {
+        "pk": 61,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005210241",
+            "name": "Scunci Glitter Rainbow Snap Clips",
+            "description": "Your hair isn't going anywhere with this 12pk of scunci snap clips! Perfect for easily taming stray strands & stylish enough to accent updos and everyday hairstyles, these babies snap closed and hold on tight, in comfort! And they come in all the colors of the rainbow with a glittery, glam finish.",
+            "price": 4.99,
+            "category": 6,
+            "rating": 4.5,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_875ce36b-7aca-4864-924f-3e54d44d5ba4?fmt=webp&wid=1400&qlt=80",
+            "image": "scunci-glitter-rainbow-snap-clips.webp"
+        }
+    },
+    {
+        "pk": 62,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005280104",
+            "name": "Scunci Hosiery Pastel Ponytailers",
+            "description": "Soft and stretchy, hosiery ponytailers provide all day comfort and style with staying power! This 12pk features super-comfy elastics in 3 each of pretty pastel pink, yellow, mint and blue. Specially designed with hosiery material for extra stretch, these on-trend ponytailers combine fashion and function to securely keep hair in place.",
+            "price": 3.99,
+            "category": 8,
+            "rating": 5.0,
+            "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0401201517030651M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+            "image": "DP0401201517030651M.jpg"
+        }
+    },
+    {
+        "pk": 64,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005330595",
+            "name": "Scunci Kids Snap Clap 5pk",
+            "description": "Clip on these fruity-fresh and totally tasty snap clips to add extra sweetness to ponytails, pigtails, bangs, and buns! Glitter coated treats catch the sun’s rays and give hair a special sparkle that’s fun for school, sports, parties, and playtime. Slide the cupcake clip into a side section of hair to keep strays from scattering, blend watermelon, ice cream, and cherries together in a tasty mixed up trio, or add a shiny pineapple to your bangs to keep you looking neat and sweet. Durable metal clips bend easily to open and snap securely around hair for lasting hold and scrumptious styling! ",
+            "price": 4.99,
+            "category": 6,
+            "rating": 4.9,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_b2a0fdc0-2441-4a08-a077-d587a3398eaf?fmt=webp&wid=1400&qlt=80",
+            "image": "scunci-kids-snap-clap-5pk.webp"
+        }
+    },
+    {
+        "pk": 65,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005430914",
+            "name": "Scunci Scrunchies 25ct",
+            "description": "Wrap a scünci® scrunchie around a topknot, braid, ponytail, or puff and take your hairstyle from simple to sophisticated with a single twist! With 25 soft neutral tones in the collection, it’s easy to take an everyday 'do and transform it into a gorgeous, statement-making style by adding a touch of color. Each scrunchie is made with a durable elastic core encased in loose folds of soft cotton fabric that keeps hairstyles firmly in place and protects against damage and tangles. Make maintaining a neat and refined look effortless with natural color accessories that complement every hair color, type, and texture. About scünci hair accessories: When it comes to keeping your look on trend, scünci has you covered with today’s hottest hair accessories, including stylish headbands, super-comfy scrunchies, glitzy bobby pins, glam barrettes, and much more. From work to workouts to nights out, scünci lets you express your personal style and gets you ready for any occasion. Take control of your hair and look amazing whatever you do and wherever you go. Whether bling is your thing or casual is your calling, with scünci, ü got this.",
+            "price": 12.99,
+            "category": 6,
+            "rating": 4.0,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_941a8b2e-4e31-44f8-95e5-1e3f79151c9d?fmt=webp&wid=1400&qlt=80",
+            "image": "scunci-scrunchies-25ct.webp"
+        }
+    },
+    {
+        "pk": 66,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005430944",
+            "name": "Shein 2pc Beaded Bracelet",
+            "description": "Plastic gold beaded star bracelets",
+            "price": 1.50,
+            "category": 8,
+            "rating": 4.5,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/04/07/1617767659b49d14a7b70fd2aa5ad8a61c567009cc_thumbnail_900x.webp",
+            "image": "shein-2pc-beaded-bracelet.webp"
+        }
+    },
+    {
+        "pk": 67,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005510265",
+            "name": "Shein 2pc Heart Print Bucket Hat",
+            "description": "Multicolor heart causual bucket hats.",
+            "price": 7.00,
+            "category": 10,
+            "rating": 4.7,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/03/03/1614737447236f8265d19b8bebd75664e5264b6c64_thumbnail_900x.webp",
+            "image": "shein-2pc-heart-print-bucket-hat"
+        }
+    },
+    {
+        "pk": 68,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005520201",
+            "name": "Shein 4pc Sun Charm Necklace",
+            "description": "Gold casual pendant necklaces",
+            "price": 2.50,
+            "category": 4,
+            "rating": 4.3,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/07/29/1596009160b7abe0791ec1bd7b7dbd27e252ab2982_thumbnail_900x.webp",
+            "image": "shein-4pc-sun-charm-necklace"
+        }
+    },
+    {
+        "pk": 69,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005520205",
+            "name": "Shein 5pc Disc Charm Beaded Bracelet",
+            "description": "Gold multicolor beaded bracelet.",
+            "price": 3.50,
+            "category": 10,
+            "rating": 4.2,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/10/09/160221537215710fd63d890fab19a858b50632a95f_thumbnail_900x.webp",
+            "image": "shein-5-disc-charm-beaded-bracelet.webp"
+        }
+    },
+    {
+        "pk": 70,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005630545",
+            "name": "Shein 5pc Faux Pearl Decor Hoop Earrings",
+            "description": "Women gold hoops",
+            "price": 3.50,
+            "category": 9,
+            "rating": 4.3,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/09/03/163059984214f0b4f3468ed242a6bf1bc1aff49ae3_thumbnail_900x.webp",
+            "image": "shein-5pairs-faux-pearl-decor-hoop-earrings.webp"
+        }
+    },
+    {
+        "pk": 71,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005630605",
+            "name": "Shein 5pc Minimalist Ring",
+            "description": "Gold, 5pc, minimalist ring",
+            "price": 1.00,
+            "category": 10,
+            "rating": 4.6,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/04/06/1617683546f8ca96326467ca36761a121accae7988_thumbnail_900x.webp",
+            "image": "shein-5pc-minimalist-ring"
+        }
+    },
+    {
+        "pk": 72,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005630637",
+            "name": "Shein 5pc Multicolor Butterfly Pendant Necklace",
+            "description": "Gold multicolor pendant necklaces.",
+            "price": 3.50,
+            "category": 2,
+            "rating": 4.7,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/07/21/1595317882082b6c94269d854bdce9be1a1a955ff2_thumbnail_900x.webp",
+            "image": "shein-5pc-multicolor-pendant-necklace.webp"
+        }
+    },
+    {
+        "pk": 73,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005630638",
+            "name": "Shein 5pc Simple Pendant Necklace",
+            "description": "Gold multicolor casual pendant necklaces.",
+            "price": 3.50,
+            "category": 2,
+            "rating": 4.2,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/08/06/162824907614755bd2b15e0a27ea994b252dea6a04_thumbnail_900x.webp",
+            "image": "shein-5pc-simple-pendant-necklace.webp"
+        }
+    },
+    {
+        "pk": 74,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005650677",
+            "name": "Shein 6pc Heart Decor Ring",
+            "description": "Multicolor heart decor ring.",
+            "price": 1.00,
+            "category": 10,
+            "rating": 4.4,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/06/22/1624353129361881a4b040830f4983192ea9962517_thumbnail_900x.webp",
+            "image": "shein-6pc-heart-decor-ring.webp"
+        }
+    },
+    {
+        "pk": 75,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005700140",
+            "name": "Shein 6pc Rhinestone Decor Butterfly Charm Necklace",
+            "description": "Rhinestone, butterfly, pendant necklaces",
+            "price": 4.00,
+            "category": 2,
+            "rating": 5.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/10/08/16021251237e66a0a4ff22bc645ed0d985c9b39822_thumbnail_900x.webp",
+            "image": "shein-6pc-rhinestone-decor-butterfly-charm-necklace.webp"
+        }
+    },
+    {
+        "pk": 76,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005740430",
+            "name": "Shein 6pc Star Decor Ring",
+            "description": "Multicolor, casual, star ring.",
+            "price": 4.00,
+            "category": 8,
+            "rating": 4.7,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/06/22/1624353088d0f4c9deae9dafdef25782e33bd2256a_thumbnail_900x.webp",
+            "image": "shein-6pc-star-decor-ring.webp"
+        }
+    },
+    {
+        "pk": 77,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005740561",
+            "name": "Shein 12pc Girl Coil Hair Tie",
+            "description": "Plain, multicolor, casual, hair ties.",
+            "price": 2.50,
+            "category": 6,
+            "rating": 4.6,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/11/16/1605504114ac797f1b8570876d793ebbf414dcc1e3_thumbnail_900x.webp",
+            "image": "shein-12pc-girl-coil-hair-tie.webp"
+        }
+    },
+    {
+        "pk": 78,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005740634",
+            "name": "Shein Acrylic Frame Sunglasses",
+            "description": "Geometric, boho, baby blue acrylic sunglasses with 100% UV protection.",
+            "price": 3.00,
+            "category": 7,
+            "rating": 4.5,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/02/07/1612665451dbeb556126321635ed8d7fc72b7297ca_thumbnail_900x.webp",
+            "image": "shein-acrylic-frame-sunglasses.webp"
+        }
+    },
+    {
+        "pk": 79,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005760088",
+            "name": "Shein Belt Decor Fedora Hat",
+            "description": "Burgandy, poleyster fedora.",
+            "price": 3.50,
+            "category": 7,
+            "rating": 5.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/09/27/163273061428274d6a96233747f9506bfb798461aa_thumbnail_900x.webp",
+            "image": "shein-belt-decor-fedora-hat.webp"
+        }
+    },
+    {
+        "pk": 80,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005810108",
+            "name": "Shein Butterfly Charm Necklace And Earrings",
+            "description": "Butterfly baby blue casual necklace.",
+            "price": 1.50,
+            "category": 2,
+            "rating": 4.7,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/01/04/1609745469a148545fc5cb73bf73136a6da2c01891_thumbnail_900x.webp",
+            "image": "shein-butterfly-charm-necklace-and-earrings.webp"
+        }
+    },
+    {
+        "pk": 81,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005820197",
+            "name": "Shein Butterfly Decor Hoop Earrings",
+            "description": "Fashionable, gold, butterfly, hoop earrings.",
+            "price": 1.50,
+            "category": 4,
+            "rating": 4.9,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/09/17/163186898626233f9781aac8ae04bfecf7c13bd491_thumbnail_900x.webp",
+            "image": "shein-butterfly-decor-hoop-earrings.webp"
+        }
+    },
+    {
+        "pk": 82,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005840598",
+            "name": "Shein Butterfly Design Sunglasses",
+            "description": "Multicolor butterfly sunglasses.",
+            "price": 6.00,
+            "category": 7,
+            "rating": 5.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/05/29/1590741530ad2b6b97ecae40edc0119a1f1c12c840_thumbnail_900x.webp",
+            "image": "shein-butterfly-design-sunglasses.webp"
+        }
+    },
+    {
+        "pk": 83,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005840776",
+            "name": "Shein Butterfly Print Bucket Hat",
+            "description": "Multicolor butterfly bucket hat.",
+            "price": 4.00,
+            "category": 7,
+            "rating": 5.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/06/15/1623729856b47eabe6ca7e11713bf658c3758e2962_thumbnail_900x.webp",
+            "image": "shein-butterfly-print-bucket-hat.webp"
+        }
+    },
+    {
+        "pk": 84,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005850180",
+            "name": "Shein Cat Eye Tinted Lens Sunglasses",
+            "description": "Cat eye red acrylic sunglasses",
+            "price": 4.00,
+            "category": 7,
+            "rating": 4.2,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/07/02/1625215234df9c165bdbf34e6d269eea88898e36c9_thumbnail_900x.webp",
+            "image": "shein-cat-eye-tinted-lens-sunglasses.webp"
+        }
+    },
+    {
+        "pk": 85,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005851218",
+            "name": "Shein Color Block Drop Earrings",
+            "description": "Gold multicolor dangle earrings",
+            "price": 1.00,
+            "category": 8,
+            "rating": 4.1,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/04/20/158739395538779ba8a12d86149c517c43bd3d283f_thumbnail_900x.webp",
+            "image": "shein-color-block-drop-earrings.webp"
+        }
+    },
+    {
+        "pk": 86,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005860175",
+            "name": "Shein Daisy Baguette Bag",
+            "description": "Blue small floral baguette bag.",
+            "price": 11.00,
+            "category": 4,
+            "rating": 4.8,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/06/04/159124121614e58385127652e2542c8e05c84df900_thumbnail_900x.webp",
+            "image": "shein-daisy-baguette-bag.webp"
+        }
+    },
+    {
+        "pk": 87,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005860263",
+            "name": "Shein Dragonfly Design Glasses",
+            "description": "Novelty, boho, multicolor, rimless, dragonfly sunglasses.",
+            "price": 6.00,
+            "category": 4,
+            "rating": 4.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/08/04/15965169178ba7cd0ea4ef734f329670fce6b20747_thumbnail_900x.webp",
+            "image": "shein-dragonfly-design-glasses.webp"
+        }
+    },
+    {
+        "pk": 88,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005870183",
+            "name": "Shein Faux Pearl Rhinestone Decor Stud Earrings",
+            "description": "Gold stud casual earrings.",
+            "price": 1.50,
+            "category": 9,
+            "rating": 5.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/03/19/1616123121f698887853c26fa7837d20dd04dc391d_thumbnail_900x.webp",
+            "image": "shein-faux-pearl-rhinestone-decor-stud-earrings.webp"
+        }
+    },
+    {
+        "pk": 89,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005870599",
+            "name": "Shein Faux Pearl Stud Earrings",
+            "description": "Silver stud casual earrings.",
+            "price": 1.50,
+            "category": 3,
+            "rating": 4.4,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/09/09/16311933629e3b9b43436636f54a85415a422ff3ca_thumbnail_900x.webp",
+            "image": "shein-faux-pearl-stud-earrings.webp"
+        }
+    },
+    {
+        "pk": 90,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005870638",
+            "name": "Shein Geometric Drop Earrings",
+            "description": "Shein Geometric Drop Earrings",
+            "price": 3.00,
+            "category": 9,
+            "rating": 4.4,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/08/16/16291005287c1858e11b4a520bc54877a9618e1847_thumbnail_900x.webp",
+            "image": "shein-geometric-drop-earrings.webp"
+        }
+    },
+    {
+        "pk": 91,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005910565",
+            "name": "Shein Girls Bee Charm Bangle",
+            "description": "Girls gold bee bangle.",
+            "price": 1.50,
+            "category": 10,
+            "rating": 4.3,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/09/03/163064767259616479982bf038c590e381823f2373_thumbnail_900x.webp",
+            "image": "shein-girls-bee-charm-bangle.webp"
+        }
+    },
+    {
+        "pk": 92,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005930313",
+            "name": "Shein Glass Beaded Bracelet",
+            "description": "White glass beaded bracelet.",
+            "price": 1.00,
+            "category": 10,
+            "rating": 4.9,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/07/18/16265953743c840fc8bdfee69f8235eb91f6f3dc09_thumbnail_900x.webp",
+            "image": "shein-glass-beaded-bracelet.webp"
+        }
+    },
+    {
+        "pk": 93,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005940242",
+            "name": "Shein Heart Embroidered Baseball Cap",
+            "description": "Dark grey casual heart baseball cap.",
+            "price": 4.00,
+            "category": 7,
+            "rating": 3.7,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/09/29/1632880873d7d54f6f65d147238c4933c4055daa64.webp",
+            "image": "shein-heart-embroidered-baseball-cap.webp"
+        }
+    },
+    {
+        "pk": 94,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005940299",
+            "name": "Shein Heart Shaped Fluffy Crossbody",
+            "description": "Fluffy heart shaped novelty bag",
+            "price": 7.00,
+            "category": 7,
+            "rating": 5.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/11/10/16049858127fc1551248a3aa3bec850754e220d43c_thumbnail_900x.webp",
+            "image": "shein-heart-shaped-fluffy-crossbody-bag.jpeg"
+        }
+    },
+    {
+        "pk": 95,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005941612",
+            "name": "Shein Lightning Drop Earrings",
+            "description": "Multicolor lightning earrings.",
+            "price": 2.00,
+            "category": 9,
+            "rating": 5.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/07/27/16273753334dbe0d043bff812c193e2f1236f01ab8_thumbnail_900x.webp",
+            "image": "shein-lightning-drop-earrings.webp"
+        }
+    },
+    {
+        "pk": 96,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5005980058",
+            "name": "Shein Metal Leaf Design Wrap Bracelet",
+            "description": "Gold metal wrap bracelet.",
+            "price": 1.50,
+            "category": 10,
+            "rating": 5.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/09/15/1631693782530cf178c06df1249f83cd92b34d76ea_thumbnail_900x.webp",
+            "image": "shein-metal-leaf-design-wrap-bracelet.webp"
+        }
+    },
+    {
+        "pk": 98,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5006070077",
+            "name": "Shein Minimalist Cuff Bracelet",
+            "description": "Gold copper cuff bracelet.",
+            "price": 2.50,
+            "category": 10,
+            "rating": 4.4,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/09/08/1631085573197f76a196ea8b5c24c86c2115e23cae_thumbnail_900x.webp",
+            "image": "shein-minimalist-cuff-bracelet.webp"
+        }
+    },
+    {
+        "pk": 99,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5006081758",
+            "name": "Shein Minimalist Shoulder Bag",
+            "description": "Mint green baugette bag.",
+            "price": 4.00,
+            "category": 1,
+            "rating": 4.8,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/09/28/1632818057b7ff1c6bd528eec545c2a713ae31c5cb_thumbnail_900x.webp",
+            "image": "shein-minimalist-shoulder-bag.webp"
+        }
+    },
+    {
+        "pk": 100,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5006082011",
+            "name": "Shein Novelty Lens Rimless Sunglasses",
+            "description": "Novelty boho green rimless sunglasses.",
+            "price": 6.00,
+            "category": 3,
+            "rating": 5.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/10/13/16025691020c8d33efa8d387644811bd2979a3386e_thumbnail_900x.webp",
+            "image": "shein-novelty-lens-rimless-sunglasses.webp"
+        }
+    },
+    {
+        "pk": 101,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5006150186",
+            "name": "Shein Pencil Decor Drop Earrings",
+            "description": "Acrylic multicolor drop earrings.",
+            "price": 2.00,
+            "category": 9,
+            "rating": 4.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/09/02/16305167583d81cf4d5c7c32f5f6ec028c2dd733b1_thumbnail_900x.webp",
+            "image": "shein-pencil-decor-drop-earrings.webp"
+        }
+    },
+    {
+        "pk": 102,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5006153172",
+            "name": "Shein Rainbow Design Drop Earrings",
+            "description": "Acrylic multicolor rainbow earrings.",
+            "price": 2.50,
+            "category": 9,
+            "rating": 4.2,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/07/15/1626313011306cb352f1d29c17ae50a49456b69569_thumbnail_900x.webp",
+            "image": "shein-rainbow-design-drop-earrings.webp"
+        }
+    },
+    {
+        "pk": 103,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5006160127",
+            "name": "Shein Rhinestone Decor Bracelet",
+            "description": "Gold rhinestone decor bracelet",
+            "price": 3.50,
+            "category": 10,
+            "rating": 5.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/05/13/1589344209f3ce3a808fd3e077bd11ccbf5e0170ed_thumbnail_900x.webp",
+            "image": "shein-rhinestone-decor-bracelet.webp"
+        }
+    },
+    {
+        "pk": 104,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5006160833",
+            "name": "Shein 23pc Rhinestone Decor Ring",
+            "description": "Gold rhinestone rings.",
+            "price": 5.00,
+            "category": 10,
+            "rating": 4.8,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2020/07/03/1593754194b2bc9654c76f4433dd75f558b4f42527_thumbnail_900x.webp",
+            "image": "shein-rhinestone-decor-ring.webp"
+        }
+    },
+    {
+        "pk": 105,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5006170128",
+            "name": "Shein Twist Lock Flap Chain Bag",
+            "description": "Pink small fashionable square bag.",
+            "price": 4.00,
+            "category": 1,
+            "rating": 4.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/10/13/16341057135559a22c30798d4916e19e11610c6303_thumbnail_900x.webp",
+            "image": "shein-twist-lock-flap-chain-bag.webp"
+        }
+    },
+    {
+        "pk": 106,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5006170131",
+            "name": "Shein Zircon Butterfly Decor Ring",
+            "description": "Rose gold rhinestone butterfly ring.",
+            "price": 1.50,
+            "category": 10,
+            "rating": 5.0,
+            "image_url": "https://img.ltwebstatic.com/images3_pi/2021/04/26/1619410949b251839f5b8b1286c23017449f4111b0_thumbnail_900x.webp",
+            "image": "shein-zircon-butterfly-decor-ring.webp"
+        }
+    },
+    {
+        "pk": 107,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5006170357",
+            "name": "Target 4pk Butterfly Hair Clips",
+            "description": "Take your little girl's outfit up a notch with these cute butterfly clips from art class. She's sure to love the pretty colors that will have her looking super adorable while keeping her locks in place. Pair it with a cute dress and give your diva the look she deserves!",
+            "price": 6.00,
+            "category": 6,
+            "rating": 3.7,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_42b09246-e77e-490f-a7c8-dcb84e525144?fmt=webp&wid=1400&qlt=80",
+            "image": "target-4pk-butterfly-hair-clips.webp"
+        }
+    },
+    {
+        "pk": 108,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5006200155",
+            "name": "Tiffinay Diamonds By The Yard Single Diamond Pendant",
+            "description": "A single hand-polished diamond shines at the center of this delicate and refined 18k yellow gold pendant. Elsa Peretti’s revolutionary Diamonds by the Yard® collection features a combination of fine, fluid chains and bezel-set stones that forever changed the role of diamonds in fashion. Suspended like a single drop of light against the skin, layer this design with other Diamonds by the Yard® pendants and necklaces of varying lengths and metals for a look that’s all your own.",
+            "price": 850.00,
+            "category": 2,
+            "rating": 5.0,
+            "image_url": "https://media.tiffany.com/is/image/Tiffany/EcomItemM/elsa-perettidiamonds-by-the-yard-single-diamond-pendant-10769213_937852_ED_M.jpg?&op_usm=1.0,1.0,6.0&$cropN=0.1,0.1,0.8,0.8&defaultImage=NoImageAvailableInternal&",
+            "image": "tiffany-solitaire-diamond-pendant.jpeg"
+        }
+    },
+    {
+        "pk": 109,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5006200658",
+            "name": "Universal Thread Geometric Salon Clip",
+            "description": "Add a luxe look to a variety of hairstyles while keeping pieces out of your eyes and face with this Geometric Salon Clip Set from Universal Thread™. This set includes two salon-style clips, both made of iron with a shiny gold finish for sophisticated style. Colorful semicircle, square and circle shapes adorn the top to add a little extra flair, and the simple design is easy to open and close so you can quickly add these salon clips to a ponytail, part-up or down look to secure pieces of hair away from your face while adding cool style.",
+            "price": 8.00,
+            "category": 6,
+            "rating": 4.8,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_bb85f055-ba23-4772-8ad2-1370ec2ba4c8?fmt=webp&wid=1400&qlt=80",
+            "image": "universal-thread-geometric-salon-clip-set.webp"
+        }
+    }
+
+]
