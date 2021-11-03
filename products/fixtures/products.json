@@ -609,7 +609,7 @@
             "name": "Lulus Love And Tranquility Gold Multibeaded Bracelet",
             "description": "Keep calm, and carry the Lulus Love and Tranquility Gold Multi Beaded Bracelet wherever you go! This chic bracelet features gleaming, circular multi-colored beads (in hues of pinks, greens, and greys) along with small gold beads that connect to a dainty gold chain with an adjustable toggle closure.",
             "price":  9.00,
-            "category": 5,
+            "category": 10,
             "rating": 4.9,
             "image_url": "https://www.lulus.com/images/product/xlarge/6526621_1413236.jpg?w=560&hdpi=1",
             "image": "lulus-love-and-tranquility-gold-multibeaded-bracelet.webp"
@@ -738,7 +738,7 @@
             "category": 2,
             "rating": 3.7,
             "image_url": "https://img.ltwebstatic.com/images3_pi/2020/12/12/1607750746ef6dabf6e6d4471a8a7bb5f5d94b63c9_thumbnail_900x.webp",
-            "image": "romwe-6pcs-letter-butterfly-chain-necklace"
+            "image": "romwe-6pcs-letter-butterfly-chain-necklace.webp"
         }
     },
     {
@@ -920,7 +920,7 @@
             "category": 10,
             "rating": 4.7,
             "image_url": "https://img.ltwebstatic.com/images3_pi/2021/03/03/1614737447236f8265d19b8bebd75664e5264b6c64_thumbnail_900x.webp",
-            "image": "shein-2pc-heart-print-bucket-hat"
+            "image": "shein-2pc-heart-print-bucket-hat.webp"
         }
     },
     {
@@ -934,7 +934,7 @@
             "category": 4,
             "rating": 4.3,
             "image_url": "https://img.ltwebstatic.com/images3_pi/2020/07/29/1596009160b7abe0791ec1bd7b7dbd27e252ab2982_thumbnail_900x.webp",
-            "image": "shein-4pc-sun-charm-necklace"
+            "image": "shein-4pc-sun-charm-necklace.webp"
         }
     },
     {
@@ -976,7 +976,7 @@
             "category": 10,
             "rating": 4.6,
             "image_url": "https://img.ltwebstatic.com/images3_pi/2021/04/06/1617683546f8ca96326467ca36761a121accae7988_thumbnail_900x.webp",
-            "image": "shein-5pc-minimalist-ring"
+            "image": "shein-5pc-minimalist-ring.webp"
         }
     },
     {
@@ -1284,7 +1284,7 @@
             "category": 7,
             "rating": 3.7,
             "image_url": "https://img.ltwebstatic.com/images3_pi/2021/09/29/1632880873d7d54f6f65d147238c4933c4055daa64.webp",
-            "image": "shein-heart-embroidered-baseball-cap.webp"
+            "image": "shein-heart-embroidered-baseball cap.webp"
         }
     },
     {
@@ -1295,10 +1295,10 @@
             "name": "Shein Heart Shaped Fluffy Crossbody",
             "description": "Fluffy heart shaped novelty bag",
             "price": 7.00,
-            "category": 7,
+            "category": 1,
             "rating": 5.0,
             "image_url": "https://img.ltwebstatic.com/images3_pi/2020/11/10/16049858127fc1551248a3aa3bec850754e220d43c_thumbnail_900x.webp",
-            "image": "shein-heart-shaped-fluffy-crossbody-bag.jpeg"
+            "image": "shein-heart-shaped-fluffy-crossbody-bag.webp"
         }
     },
     {
