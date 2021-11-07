@@ -174,6 +174,7 @@ STANDARD_DELIVERY_PERCENTAGE = 10
 STRIPE_CURRENCY = 'usd'
 STRIPE_PUBLIC_KEY = os.getenv('STRIPE_PUBLIC_KEY', 'pk_test_51Jo9GoKloyYf2okF2gqRhuArH0y7Ss4RxDcOQ88Z9rwyAhFOz0KsqwB7O7s4Mu6vJMW0sCafmYPUc71PBWh4HJE400A63xcJ34')
 STRIPE_SECRET_KEY = os.getenv('STRIPE_SECRET_KEY', 'sk_test_51Jo9GoKloyYf2okFpGeknV8HP94eW0O8XfJ2pVP7QYzOFNaZj9z2SD6PTqxCTN9fvbTDMWjK571M5Cn00Heg7hu500PCMpyQec')
+STRIPE_WH_SECRET = os.getenv('STRIPE_WH_SECRET', '')
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
