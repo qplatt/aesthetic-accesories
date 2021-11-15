@@ -1,0 +1,1 @@
+web: gunicorn aesthetic_accessories.wsgi:application
